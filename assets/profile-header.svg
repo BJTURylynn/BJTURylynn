@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Rylynn — Agents meet the edge</title>
+  <desc id="description">BJTURylynn. AI Agents, Embedded Systems and Communication Engineering. A navy blue banner with a connected processor and data paths.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071725"/>
+      <stop offset="0.65" stop-color="#102B43"/>
+      <stop offset="1" stop-color="#12384F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="820" y1="70" x2="1140" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63E6D4"/>
+      <stop offset="1" stop-color="#7CB9FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#42C6CB" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#42C6CB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#88B9CD" stroke-opacity="0.09"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect x="800" y="24" width="376" height="252" rx="18" fill="url(#grid)"/>
+  <circle cx="999" cy="151" r="160" fill="url(#glow)"/>
+  <path d="M21 299H1179" stroke="#63E6D4" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="0" y="47" width="5" height="197" rx="2.5" fill="#63E6D4"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="57" fill="#92BFCE" font-size="17" font-weight="700" letter-spacing="2.5">RYLYNN / BJTU</text>
+    <text x="54" y="145" fill="#F2F8FF" font-size="78" font-weight="700" letter-spacing="-2">Rylynn</text>
+    <rect x="59" y="168" width="50" height="3" rx="1.5" fill="#63E6D4"/>
+    <text x="58" y="213" fill="#C5DBEC" font-size="29">AI Agents · Embedded Systems</text>
+    <text x="58" y="251" fill="#9ABFD4" font-size="25">Communication Engineering</text>
+  </g>
+
+  <g aria-hidden="true">
+    <path d="M790 47V253" stroke="#8CB9D0" stroke-opacity="0.17"/>
+    <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M871 85H908L942 120" opacity="0.75"/>
+      <path d="M1058 120L1092 85H1129" opacity="0.75"/>
+      <path d="M871 217H908L942 181" opacity="0.75"/>
+      <path d="M1058 181L1092 217H1129" opacity="0.75"/>
+      <path d="M1000 61V97M1000 203V240" opacity="0.5"/>
+      <path d="M830 151H941M1059 151H1170" opacity="0.35" stroke-dasharray="4 8"/>
+    </g>
+
+    <g fill="#102A40" stroke="#6FCBD9" stroke-width="1.5">
+      <rect x="826" y="65" width="55" height="40" rx="9"/>
+      <rect x="1119" y="65" width="55" height="40" rx="9"/>
+      <rect x="826" y="197" width="55" height="40" rx="9"/>
+      <rect x="1119" y="197" width="55" height="40" rx="9"/>
+    </g>
+    <g fill="none" stroke="#A1D5E5" stroke-width="2" stroke-linecap="round">
+      <path d="M839 78H867M839 85H859M839 92H864"/>
+      <path d="M1132 78L1127 85L1132 92M1161 78L1166 85L1161 92M1150 77L1142 94"/>
+      <path d="M837 224L846 213L854 218L869 207"/>
+      <path d="M1133 209H1161V225H1133ZM1142 229H1153"/>
+    </g>
+
+    <rect x="940" y="96" width="120" height="110" rx="21" fill="#102D45" stroke="url(#accent)" stroke-width="2"/>
+    <rect x="950" y="106" width="100" height="90" rx="13" fill="#13354C" stroke="#7CB9FF" stroke-opacity="0.25"/>
+    <g stroke="#80C4DE" stroke-width="3" stroke-linecap="round" opacity="0.7">
+      <path d="M963 90V96M982 90V96M1018 90V96M1037 90V96M963 206V212M982 206V212M1018 206V212M1037 206V212"/>
+      <path d="M934 122H940M934 141H940M934 161H940M934 180H940M1060 122H1066M1060 141H1066M1060 161H1066M1060 180H1066"/>
+    </g>
+    <text x="1000" y="163" text-anchor="middle" fill="#E5F7FF" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700">AI</text>
+    <circle cx="1000" cy="61" r="4" fill="#63E6D4"/>
+    <circle cx="1000" cy="240" r="4" fill="#7CB9FF"/>
+    <text x="1000" y="278" text-anchor="middle" fill="#82B2C9" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">AGENTS MEET THE EDGE</text>
+  </g>
+</svg>
