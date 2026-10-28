@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BJTURylynn/BJTURylynn/main/assets/profile-header.svg" width="100%" alt="Rylynn：AI Agent、嵌入式与边缘系统、通信工程" />
+<img src="https://raw.githubusercontent.com/Caixianseng/Caixianseng/main/assets/profile-cover.png" width="100%" alt="蓝天与海边，蓝发角色抱着海豚玩偶" />
 
 **AI Agent · 嵌入式与边缘系统 · 通信工程**
 
